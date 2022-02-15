@@ -1,5 +1,4 @@
 import keyboard
-import re
 
 
 #Current position
